@@ -9,10 +9,11 @@ Repositório teste.
   
   Podemos confiar na comunidade de advogados do Brasil?
   
-    Qual o nome que podemos dar para esse sistema?
+  Qual o nome que podemos dar para esse sistema?
   
  
-            Conceito
+ 
+ Conceito
  O sistema se trata de um sistema de "version control" jurídico. Um GitHub para advogados.
  
  Os usuários poderão inserir documentos e fazer sugestões de alterações para os documentos existentes. 
